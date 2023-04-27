@@ -1,2 +1,2 @@
-# Sebas
-practicing
+Este proyecto es para aprender
+
